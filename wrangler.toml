@@ -1,0 +1,6 @@
+name = "cloudflare-general-assesment"
+type = "webpack"
+account_id = "9b7c1fda98960e52b5e46d9ef815862d"
+workers_dev = true
+route = ""
+zone_id = ""
